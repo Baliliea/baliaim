@@ -5,7 +5,7 @@ pcall(function() end)
 if game.PlaceId == 6186867282 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nomed-rin/SKY-HUB/main/JJB"))()
 elseif game.PlaceId == 4520749081 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nomed-rin/SKY-HUB/main/JJB"))()"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Baliliea/baliaim/main/KL"))()"))()
 else
     game.Players.LocalPlayer:Kick("GAME NOT SUPPORT !!!")
 end
